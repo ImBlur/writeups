@@ -7,7 +7,7 @@
 * **Pwn:** `./pwn/`
 * **Reverse Engineering:** `./reverse-engineering/`
 * **Web:** `./web/`
-* **Cryptography:** `./cryptography/`
+* **Cryptography:** `./crypto/`
 * **Mobile:** `./mobile/`
 * **Network:** `./network/`
 * **Machine Learning:** `./ml/`
